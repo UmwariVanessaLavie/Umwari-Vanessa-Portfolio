@@ -44,7 +44,7 @@ Clone the repository:
 sh
 Copy
 Edit
-git clone https://github.com/UmwariVanessaLavie/resume-website
+git clone https://github.com/UmwariVanessaLavie/Umwari-Vanessa-Portfolio
 Navigate into the project directory:
 
 sh
@@ -62,7 +62,7 @@ If you'd like to collaborate or have any inquiries, feel free to reach out:
 
 📧 Email: YOUR_EMAIL
 
-🌐 Portfolio: https://umwarivanessa.github.io/Vanessa-resume-website/
+🌐 Portfolio:  https://umwarivanessalavie.github.io/Umwari-Vanessa-Portfolio/
 
 🔗 GitHub: UmwariVanessaLavie
 
